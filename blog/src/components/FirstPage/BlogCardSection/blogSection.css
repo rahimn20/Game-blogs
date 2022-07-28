@@ -1,0 +1,28 @@
+body { 
+    margin: 0; 
+    scroll-behavior: smooth;
+}
+
+.blogcont{
+    /* background-color: aqua; */
+    height: 1000px;
+    
+    
+}
+
+.blog{
+    margin: 66px 90px 0 90px;
+}
+
+.card-div{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 35px 20px;
+}
+
+.textblog{
+    
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 66px;
+}
